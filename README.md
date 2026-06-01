@@ -163,20 +163,6 @@ sieve-of-eratosthenes-python/
 
 ---
 
-## 🏷️ Suggested GitHub Topics
-
-```txt
-python
-algorithm
-prime-numbers
-sieve-of-eratosthenes
-mathematics
-number-theory
-beginner-friendly
-```
-
----
-
 ## 🗺️ Roadmap
 
 Possible improvements for future versions:
